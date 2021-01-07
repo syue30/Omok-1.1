@@ -1,5 +1,7 @@
 import pygame
-
+"""
+WELCOME TO OMOK!
+"""
 # Define colors of the board
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
