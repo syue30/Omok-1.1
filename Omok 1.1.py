@@ -4,6 +4,7 @@ WELCOME TO OMOK!
 
 By: Sean Y.
 Date: Jan. 5th/20
+
 """
 # Define colors of the board
 BLACK = (0, 0, 0)
